@@ -15,7 +15,7 @@ git clone https://github.com/redcaps-dataset/redcaps-downloader
 cd redcaps-downloader
 
 # Create a new conda environment.
-conda create -n redcaps python=3.8
+conda create -n redcaps python=3.9
 conda activate redcaps
 
 # Install dependencies along with this code.
